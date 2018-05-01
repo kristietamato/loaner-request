@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-01 16:14:24</sys_created_on>
-            <sys_id>12076d758d3d13007f443dfc4c981e83</sys_id>
+            <sys_created_on>2018-05-01 19:22:33</sys_created_on>
+            <sys_id>86129e718d7d13007f443dfc4c981ee2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_loaner_loaner_request" sys_domain="global" view="Default view">cab065618d7913007f443dfc4c981ea3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-01 16:14:24</sys_updated_on>
+            <sys_updated_on>2018-05-01 19:22:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>requested_for</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-01 16:14:24</sys_created_on>
-            <sys_id>92076d758d3d13007f443dfc4c981e83</sys_id>
+            <sys_created_on>2018-05-01 19:22:33</sys_created_on>
+            <sys_id>0a129e718d7d13007f443dfc4c981ee2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_loaner_loaner_request" sys_domain="global" view="Default view">cab065618d7913007f443dfc4c981ea3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-01 16:14:24</sys_updated_on>
+            <sys_updated_on>2018-05-01 19:22:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>cmdb_ci</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-01 16:14:24</sys_created_on>
-            <sys_id>16076d758d3d13007f443dfc4c981e83</sys_id>
+            <sys_created_on>2018-05-01 19:22:33</sys_created_on>
+            <sys_id>8a129e718d7d13007f443dfc4c981ee2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_loaner_loaner_request" sys_domain="global" view="Default view">cab065618d7913007f443dfc4c981ea3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-01 16:14:24</sys_updated_on>
+            <sys_updated_on>2018-05-01 19:22:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>assigned_to</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-01 16:14:24</sys_created_on>
-            <sys_id>96076d758d3d13007f443dfc4c981e83</sys_id>
+            <sys_created_on>2018-05-01 19:22:33</sys_created_on>
+            <sys_id>0e129e718d7d13007f443dfc4c981ee2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_loaner_loaner_request" sys_domain="global" view="Default view">cab065618d7913007f443dfc4c981ea3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-01 16:14:24</sys_updated_on>
+            <sys_updated_on>2018-05-01 19:22:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-01 16:14:24</sys_created_on>
-            <sys_id>1a076d758d3d13007f443dfc4c981e83</sys_id>
+            <sys_created_on>2018-05-01 19:22:33</sys_created_on>
+            <sys_id>9e129e718d7d13007f443dfc4c981ee2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_loaner_loaner_request" sys_domain="global" view="Default view">cab065618d7913007f443dfc4c981ea3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-01 16:14:24</sys_updated_on>
+            <sys_updated_on>2018-05-01 19:22:33</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>state</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-01 16:14:24</sys_created_on>
-            <sys_id>9a076d758d3d13007f443dfc4c981e83</sys_id>
+            <sys_created_on>2018-05-01 19:22:33</sys_created_on>
+            <sys_id>12129e718d7d13007f443dfc4c981ee3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_loaner_loaner_request" sys_domain="global" view="Default view">cab065618d7913007f443dfc4c981ea3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-01 16:14:24</sys_updated_on>
+            <sys_updated_on>2018-05-01 19:22:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>start_date</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-01 16:14:24</sys_created_on>
-            <sys_id>1e076d758d3d13007f443dfc4c981e83</sys_id>
+            <sys_created_on>2018-05-01 19:22:33</sys_created_on>
+            <sys_id>92129e718d7d13007f443dfc4c981ee3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_loaner_loaner_request" sys_domain="global" view="Default view">cab065618d7913007f443dfc4c981ea3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-01 16:14:24</sys_updated_on>
+            <sys_updated_on>2018-05-01 19:22:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>end_date</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-01 16:14:24</sys_created_on>
-            <sys_id>9e076d758d3d13007f443dfc4c981e83</sys_id>
+            <sys_created_on>2018-05-01 19:22:33</sys_created_on>
+            <sys_id>16129e718d7d13007f443dfc4c981ee3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_loaner_loaner_request" sys_domain="global" view="Default view">cab065618d7913007f443dfc4c981ea3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-01 16:14:24</sys_updated_on>
+            <sys_updated_on>2018-05-01 19:22:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -117,13 +117,13 @@
             <element>item_type</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-01 16:14:24</sys_created_on>
-            <sys_id>12076d758d3d13007f443dfc4c981e84</sys_id>
+            <sys_created_on>2018-05-01 19:22:33</sys_created_on>
+            <sys_id>96129e718d7d13007f443dfc4c981ee3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_loaner_loaner_request" sys_domain="global" view="Default view">cab065618d7913007f443dfc4c981ea3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-01 16:14:24</sys_updated_on>
+            <sys_updated_on>2018-05-01 19:22:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -131,13 +131,13 @@
             <element>location_to_be_used</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-01 16:14:24</sys_created_on>
-            <sys_id>92076d758d3d13007f443dfc4c981e84</sys_id>
+            <sys_created_on>2018-05-01 19:22:33</sys_created_on>
+            <sys_id>1a129e718d7d13007f443dfc4c981ee3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_loaner_loaner_request" sys_domain="global" view="Default view">cab065618d7913007f443dfc4c981ea3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-01 16:14:24</sys_updated_on>
+            <sys_updated_on>2018-05-01 19:22:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -145,55 +145,69 @@
             <element>depot</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-01 16:14:24</sys_created_on>
-            <sys_id>16076d758d3d13007f443dfc4c981e84</sys_id>
+            <sys_created_on>2018-05-01 19:22:33</sys_created_on>
+            <sys_id>9a129e718d7d13007f443dfc4c981ee3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_loaner_loaner_request" sys_domain="global" view="Default view">cab065618d7913007f443dfc4c981ea3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-01 16:14:24</sys_updated_on>
+            <sys_updated_on>2018-05-01 19:22:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>other</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-01 19:22:33</sys_created_on>
+            <sys_id>1e129e718d7d13007f443dfc4c981ee3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_loaner_loaner_request" sys_domain="global" view="Default view">cab065618d7913007f443dfc4c981ea3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-01 19:22:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>11</position>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-01 16:14:24</sys_created_on>
-            <sys_id>96076d758d3d13007f443dfc4c981e84</sys_id>
+            <sys_created_on>2018-05-01 19:22:33</sys_created_on>
+            <sys_id>9e129e718d7d13007f443dfc4c981ee3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_loaner_loaner_request" sys_domain="global" view="Default view">cab065618d7913007f443dfc4c981ea3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-01 16:14:24</sys_updated_on>
+            <sys_updated_on>2018-05-01 19:22:33</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>12</position>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-01 16:14:24</sys_created_on>
-            <sys_id>1a076d758d3d13007f443dfc4c981e84</sys_id>
+            <sys_created_on>2018-05-01 19:22:33</sys_created_on>
+            <sys_id>12129e718d7d13007f443dfc4c981ee4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_loaner_loaner_request" sys_domain="global" view="Default view">cab065618d7913007f443dfc4c981ea3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-01 16:14:24</sys_updated_on>
+            <sys_updated_on>2018-05-01 19:22:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>13</position>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-01 16:14:24</sys_created_on>
-            <sys_id>9a076d758d3d13007f443dfc4c981e84</sys_id>
+            <sys_created_on>2018-05-01 19:22:33</sys_created_on>
+            <sys_id>92129e718d7d13007f443dfc4c981ee4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_loaner_loaner_request" sys_domain="global" view="Default view">cab065618d7913007f443dfc4c981ea3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-01 16:14:24</sys_updated_on>
+            <sys_updated_on>2018-05-01 19:22:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
